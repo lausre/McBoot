@@ -1,0 +1,6 @@
+*.iso
+*.qcow2
+chroot/
+.build/
+cache/
+binary/

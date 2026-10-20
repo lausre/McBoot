@@ -9,11 +9,11 @@ McBoot is a lightweight, out-of-the-box Debian Bookworm appliance image configur
 ## 🚀 Features
 
 - **Zero Terminal Configuration**: Plug into Ethernet or connect via the built-in terminal Wi-Fi wizard.
-- **Global Network & DNS Fallback**: Configured with Cloudflare (`1.1.1.1`) and Google (`8.8.8.8`) DNS fallbacks to run seamlessly behind any home router.
+
 - **Built-in Playit.gg Tunneling**: Play with friends anywhere without port forwarding. The automated claim service generates a linking URL directly on the monitor and web portal.
 - **Crafty Controller 4**: Modern web-based Minecraft server manager (Java/Bedrock, modpacks, automated backups, and world management).
 - **Web Portal (Port 80)**: Accessible from any device on your local network at `http://minecraft.local` or `http://<SERVER_IP>`.
-- **Live USB Mode & Internal Drive Installer**: Run straight from a live USB stick or permanently install to the machine's internal disk using `sudo mcboot-install`.
+
 
 ---
 
